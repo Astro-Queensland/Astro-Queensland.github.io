@@ -1,6 +1,0 @@
-# config/_default/config.toml
-
-baseURL = "https://astro-queensland.github.io/"
-languageCode = "en"
-title = "Astro Queensland"
-homepage.layout = "hero"
