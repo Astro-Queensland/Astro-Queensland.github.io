@@ -1,18 +1,18 @@
 # config/_default/languages.en.toml
 
-title = "Dr Rebecca McElroy"
+title = ""
 
 [author]
 name = "Dr Rebecca McElroy"
-image = "img/pink.jpg"
-headline = "Research Fellow & Digital Artist"
-bio = "Research Fellow & Digital Artistt"
+image = ""
+headline = ""
+bio = ""
 
 links = [
-  { twitter = "https://twitter.com/re_mcelroy" },
-  { github = "https://github.com/rebeccamcelroy" },
-  { linkedin = "https://www.linkedin.com/in/rebecca-mcelroy/" },
+  { twitter = "" },
+  { github = "" },
+  { linkedin = "" },
   { email = "mailto:rebecca.mcelroy@unisq.edu.au" },
-  { instagram = "https://www.instagram.com/paintingbybex/"},
-  { orcid = "https://orcid.org/0000-0002-7960-5808"}
+  { instagram = ""},
+  { orcid = ""}
   ]
