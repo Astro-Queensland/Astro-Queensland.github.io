@@ -1,6 +1,6 @@
 # config/_default/config.toml
 
-baseURL = "https://rebeccamcelroy.github.io/"
+baseURL = "https://astro-queensland.github.io/"
 languageCode = "en"
-title = "Dr Rebecca McElroy"
+title = "Hub for Astronomy in Queensland"
 homepage.layout = "hero"
