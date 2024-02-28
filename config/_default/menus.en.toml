@@ -1,0 +1,57 @@
+# config/_default/menus.toml
+
+[[main]]
+  name = "About Me"
+  weight = 20
+
+[[main]]
+  name = "Bio"
+  parent = "About Me"
+  pageRef = "about_me"
+  weight = 1
+
+[[main]]
+  name = "CV"
+  parent = "About Me"
+  url = "cv_rmcelroy.pdf"
+  weight = 2
+
+[[main]]
+  name = "Resume"
+  parent = "About Me"
+  url = "resume_rmcelroy.pdf"
+  weight = 3
+
+
+[[main]]
+  name = "My Art"
+  weight = 20
+
+[[main]]
+  name = "About"
+  parent = "My Art"
+  pageRef = "art_about"
+  weight = 1
+
+[[main]]
+  name = "Insta"
+  parent = "My Art"
+  url = "https://www.instagram.com/paintingbybex"
+  weight = 2
+
+[[main]]
+  name = "Science Illustration"
+  parent = "My Art"
+  url = "https://drive.google.com/drive/folders/1C8KAJDvMLDopVWPV1iUUh7cJ2aeBp6G4?usp=sharing"
+  weight = 3
+
+[[main]]
+  name = "Tools"
+  weight = 20
+
+  [[main]]
+  name = "Brisbane Meal Deals"
+  parent = "Tools"
+  pageRef = "meal_deals"
+  weight = 1
+
