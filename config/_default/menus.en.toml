@@ -2,13 +2,8 @@
 
 [[main]]
   name = "About"
-  weight = 20
-
-[[main]]
-  name = "Info"
-  parent = "About"
   pageRef = "about"
-  weight = 1
+  weight = 20
 
 [[main]]
   name = "Hubs"
