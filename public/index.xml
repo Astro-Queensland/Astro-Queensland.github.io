@@ -2,51 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HAQ</title>
-    <link>http://localhost:1313/</link>
+    <link>https://astro-queensland.github.io/</link>
     <description>Recent content on HAQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Hub for Astronomy in Queensland</copyright>
-    <lastBuildDate>Thu, 09 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>http://localhost:1313/events/</link>
-      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/events/</guid>
-      <description>test</description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/people_qut/</link>
-      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/people_qut/</guid>
-      <description>test</description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/people_uq/</link>
-      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/people_uq/</guid>
-      <description>test</description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/people_usq/</link>
-      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/people_usq/</guid>
-      <description>test</description>
-      
-    </item>
-    
+    <atom:link href="https://astro-queensland.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
