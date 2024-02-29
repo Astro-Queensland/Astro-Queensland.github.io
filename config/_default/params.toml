@@ -2,8 +2,8 @@
 
 defaultBackgroundImage = "/img/jwst_bg.jpg"
 defaultAppearance = "dark"
-colorScheme = "marvel"
-logo = "/img/cat.png"
+colorScheme = "congo"
+logo = "/img/logo_tiny.png"
 highlightCurrentMenuArea = true
 article.showHero = true
 
@@ -19,12 +19,13 @@ article.showHero = true
   showScrollToTop = true
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
-  # homepageImage = "/img/iceland.jpg" # used in: hero, and card
+  layout = "page" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "/img/logo_card.png" # used in: hero, and card
   showRecent = false
   showRecentItems = 10
   showMoreLink = true
   showMoreLinkDest = "docs"
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
+  

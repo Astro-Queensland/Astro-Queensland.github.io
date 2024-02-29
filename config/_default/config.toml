@@ -2,5 +2,5 @@
 
 baseURL = "https://astro-queensland.github.io/"
 languageCode = "en"
-title = "Hub for Astronomy in Queensland"
+title = "HAQ"
 homepage.layout = "hero"

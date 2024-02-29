@@ -1,23 +1,40 @@
 # config/_default/menus.toml
 
 [[main]]
-  name = "About"
-  pageRef = "about"
-  weight = 20
+  name = "People"
+  weight = 1
 
 [[main]]
-  name = "Hubs"
-  weight = 20
-
-[[main]]
-  name = "USQ"
-  parent = "Hubs"
-  pageRef = "hubs_usq"
+  name = "UniSQ"
+  parent = "People"
+  pageRef = "people_usq"
   weight = 1
 
 [[main]]
   name = "UQ"
-  parent = "Hubs"
-  pageRef = "hubs_uq"
+  parent = "People"
+  pageRef = "people_uq"
   weight = 2
+
+[[main]]
+  name = "QUT"
+  parent = "People"
+  pageRef = "people_qut"
+  weight = 3
+
+[[main]]
+  name = "Admin"
+  parent = "People"
+  pageRef = "admin"
+  weight = 3
+
+[[main]]
+  name = "Mailer"
+  pageRef = "mailer"
+  weight = 2
+
+[[main]]
+  name = "Events"
+  pageRef = "events"
+  weight = 3
 

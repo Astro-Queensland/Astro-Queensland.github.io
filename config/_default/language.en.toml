@@ -1,11 +1,11 @@
 # config/_default/languages.en.toml
 
-title = "Hub for Astronomy in Queensland"
+title = "HAQ"
 
 [author]
 name = "Hub for Astronomy in Queensland"
-image = ""
-headline = "Linking Astronomy departments in South East Queensland"
+image = "/img/logo_small.png"
+headline = "Facilitating collaborations between Queensland's Astronomy "
 bio = ""
 
 links = [
