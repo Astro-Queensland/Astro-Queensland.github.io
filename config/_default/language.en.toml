@@ -5,14 +5,11 @@ title = "HAQ"
 [author]
 name = "Hub for Astronomy in Queensland"
 image = "/img/logo_small.png"
-headline = "Facilitating collaborations between Queensland's Astronomy "
+headline = ""
 bio = ""
 
 links = [
   { twitter = "https://twitter.com/re_mcelroy" },
-  { github = "https://github.com/rebeccamcelroy" },
-  { linkedin = "https://www.linkedin.com/in/rebecca-mcelroy/" },
+  { github = "https://github.com/Astro-Queensland" },
   { email = "mailto:rebecca.mcelroy@unisq.edu.au" },
-  { instagram = "https://www.instagram.com/paintingbybex/"},
-  { orcid = "https://orcid.org/0000-0002-7960-5808"}
   ]

@@ -1,6 +1,6 @@
 # config/_default/params.toml
 
-defaultBackgroundImage = "/img/jwst_bg.jpg"
+defaultBackgroundImage = "/img/bkg.png"
 defaultAppearance = "dark"
 colorScheme = "congo"
 logo = "/img/logo_tiny.png"
@@ -19,9 +19,7 @@ article.showHero = true
   showScrollToTop = true
 
 [homepage]
-  layout = "page" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "/img/logo_card.png" # used in: hero, and card
-  showRecent = false
+  layout = "background" # valid options: page, profile, hero, card, background, custom
   showRecentItems = 10
   showMoreLink = true
   showMoreLinkDest = "docs"
