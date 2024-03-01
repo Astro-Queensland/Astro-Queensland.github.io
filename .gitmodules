@@ -1,0 +1,6 @@
+[submodule "path_to_submodule"] 
+  path = ./themes/blowfish/ 
+  url = git:https://github.com/nunocoracao/blowfish
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish
