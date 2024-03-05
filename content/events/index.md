@@ -1,6 +1,4 @@
----
-showReadingTime: false
-date: 2023-03-09
----
+We run a bi-monthly seminar afternoon for students and staff, rotating between campuses. 
 
-test
+Stay tuned for details of our first event. 
+

@@ -1,6 +1,1 @@
----
-showReadingTime: false
-date: 2023-03-09
----
-
-test
+You can find information about the QUT astro department at...
