@@ -3,6 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://astro-queensland.github.io/admin/</loc>
+  </url>
+  <url>
+    <loc>https://astro-queensland.github.io/events/</loc>
+  </url>
+  <url>
+    <loc>https://astro-queensland.github.io/mailer/</loc>
+  </url>
+  <url>
+    <loc>https://astro-queensland.github.io/old_index/</loc>
+  </url>
+  <url>
+    <loc>https://astro-queensland.github.io/people/</loc>
+  </url>
+  <url>
+    <loc>https://astro-queensland.github.io/people_qut/</loc>
+  </url>
+  <url>
+    <loc>https://astro-queensland.github.io/people_uq/</loc>
+  </url>
+  <url>
+    <loc>https://astro-queensland.github.io/people_usq/</loc>
+  </url>
+  <url>
     <loc>https://astro-queensland.github.io/</loc>
   </url>
 </urlset>
